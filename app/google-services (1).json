@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827440906603",
+    "project_id": "e-cloud-app",
+    "storage_bucket": "e-cloud-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827440906603:android:d4753bb01bd491a6710c2e",
+        "android_client_info": {
+          "package_name": "com.example.ecloudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827440906603-a1ad7leb5cgpqftgq06dtlhf2qmj6898.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxRmOt1-zdmpaY97p5aABLLQJIZ3Puio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827440906603-a1ad7leb5cgpqftgq06dtlhf2qmj6898.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
